@@ -13,32 +13,32 @@
         9. [Project Testing Project](#project-test)
         
         ## Project title
-        * professional generator
+         Professional README.md Generator
 
         ## Project Description
-        * this was ny homework assesmgent 
+         This project was my homowork and I made him for easyer writing readme file
 
         ## Usage Information
-        * undefined
+         to generate readme md file
 
         ## Project Content
-        * readme.md file
+         this project contain readme md file
 
         ## Project Instalation
-        * I install for this project npm inqurier
+         i install npm inqurier
 
         ## Usage Informations
-        * to make profesionall README.md file
+         to generate readme md file
 
         ## License
-        * licensed under the 
+         licensed under the 
 
         ## Project Contributions
-        * 
+         
 
         ## Testing Project
-        * no test
+         no text raquired
 
         ## Questions
-        * For additional help or questions about collaboration, please reach out to bokigolic32@gmail.com
-        * Follow me on Github at [https://github.com/bokigolic/ProfessionalReadme-Generator/tree/main/Develop](http://github.com/https://github.com/bokigolic/ProfessionalReadme-Generator/tree/main/Develop)
+          For additional help or questions about collaboration, please reach out to bokigolic32@gmail.com
+          Follow me on Github at [https://github.com/bokigolic/ProfessionalReadme-Generator](http://github.com/https://github.com/bokigolic/ProfessionalReadme-Generator)
