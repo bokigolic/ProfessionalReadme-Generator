@@ -5,6 +5,7 @@ const writeFileAsync = util.promisify(fs.writeFile);
 
 
 function promptUser(){
+
     return inquirer.prompt([
         {
             type: "input",
@@ -87,35 +88,35 @@ function promptUser(){
         9. [Project Testing Project](#project-test)
         
         ## Project title
-        * ${answers.titleProject}
+         ${answers.titleProject}
 
         ## Project Description
-        * ${answers.description}
+         ${answers.description}
 
         ## Usage Information
-        * ${answers.use}
+         ${answers.usage}
 
         ## Project Content
-        * ${answers.content}
+         ${answers.content}
 
         ## Project Instalation
-        * ${answers.install}
+         ${answers.install}
 
         ## Usage Informations
-        * ${answers.usage}
+         ${answers.usage}
 
         ## License
-        * licensed under the ${answers.license}
+         licensed under the ${answers.license}
 
         ## Project Contributions
-        * ${answers.contributions}
+         ${answers.contributions}
 
         ## Testing Project
-        * ${answers.test}
+         ${answers.test}
 
         ## Questions
-        * For additional help or questions about collaboration, please reach out to ${answers.email}
-        * Follow me on Github at [${answers.github}](http://github.com/${answers.github})`
+          For additional help or questions about collaboration, please reach out to ${answers.email}
+          Follow me on Github at [${answers.github}](http://github.com/${answers.github})`
         
         
           
