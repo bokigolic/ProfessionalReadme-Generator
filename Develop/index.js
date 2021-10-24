@@ -1,7 +1,7 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
-const writeFileAsync = util.promisify(fs.writeFile);
+const writeFilee = util.promisify(fs.writeFile);
 
 
 function promptUser(){
@@ -77,6 +77,7 @@ function promptUser(){
 
 
         #### Table of Contents
+
         1. [Project title](#project-title)
         2. [Project Description](#project-description)
         3. [Usage Information](#project-use)
@@ -88,35 +89,35 @@ function promptUser(){
         9. [Project Testing Project](#project-test)
         
         ## Project title
-         ${answers.titleProject}
+        * ${answers.titleProject}
 
         ## Project Description
-         ${answers.description}
+        * ${answers.description}
 
         ## Usage Information
-         ${answers.usage}
+        * ${answers.usage}
 
         ## Project Content
-         ${answers.content}
+        * ${answers.content}
 
         ## Project Instalation
-         ${answers.install}
+        * ${answers.install}
 
         ## Usage Informations
-         ${answers.usage}
+        * ${answers.usage}
 
         ## License
-         licensed under the ${answers.license}
+        * licensed under the ${answers.license}
 
         ## Project Contributions
-         ${answers.contributions}
+        * ${answers.contributions}
 
         ## Testing Project
-         ${answers.test}
+        * ${answers.test}
 
         ## Questions
-          For additional help or questions about collaboration, please reach out to ${answers.email}
-          Follow me on Github at [${answers.github}](http://github.com/${answers.github})`
+        * For additional help or questions about collaboration, please reach out to ${answers.email}
+        * Follow me on Github at [${answers.github}](http://github.com/${answers.github})`
         
         
           
@@ -127,7 +128,7 @@ function promptUser(){
             const readme = generateREADME(answers);
         
          
-            return writeFileAsync("README.md", readme);
+            return writeFilee("README.md", readme);
           })
           .then(function() {
             console.log(" README.md has been created!");

@@ -2,6 +2,7 @@
 
 
         #### Table of Contents
+
         1. [Project title](#project-title)
         2. [Project Description](#project-description)
         3. [Usage Information](#project-use)
@@ -13,32 +14,32 @@
         9. [Project Testing Project](#project-test)
         
         ## Project title
-         Professional README.md Generator
+        * Professional README Generator
 
         ## Project Description
-         This project was my homowork and I made him for easyer writing readme file
+        * This application generates a professional README.md file from user's input using INQUIRER PACKAGE
 
         ## Usage Information
-         to generate readme md file
+        * Generate a professional README.md file
 
         ## Project Content
-         this project contain readme md file
+        * App contain professional README.md file
 
         ## Project Instalation
-         i install npm inqurier
+        * I instal npm inquirer and npm util
 
         ## Usage Informations
-         to generate readme md file
+        * Generate a professional README.md file
 
         ## License
-         licensed under the 
+        * licensed under the 
 
         ## Project Contributions
-         
+        * Help for future projects
 
         ## Testing Project
-         no text raquired
+        * testing are not required
 
         ## Questions
-          For additional help or questions about collaboration, please reach out to bokigolic32@gmail.com
-          Follow me on Github at [https://github.com/bokigolic/ProfessionalReadme-Generator](http://github.com/https://github.com/bokigolic/ProfessionalReadme-Generator)
+        * For additional help or questions about collaboration, please reach out to bokigolic32@gmail.com
+        * Follow me on Github at [https://github.com/bokigolic/ProfessionalReadme-Generator/blob/main/Develop/index.js](http://github.com/https://github.com/bokigolic/ProfessionalReadme-Generator/blob/main/Develop/index.js)
