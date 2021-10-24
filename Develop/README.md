@@ -18,10 +18,10 @@
             * Professional README Generator
 
         ## Project Description
-            * This application generates a professional README.md file from user's input using INQUIRER PACKAG;
+            * This application generates a professional README.md file from user's input using INQUIRER PACKAGE
 
         ## Usage Information
-            *  Generate a professional README.md file;
+            * Generate a professional README.md file;
 
         ## Project Content
             * App contain professional README.md file;
@@ -30,17 +30,17 @@
             * I instal npm inquirer and npm util;
 
         ## Usage Informations
-            *  Generate a professional README.md file;
+            * Generate a professional README.md file;
 
         ## License
             * licensed under the 
 
         ## Project Contributions
-            * 
+            * I will us this app for future readme.md files
 
         ## Testing Project
-            * 
+            * This app does not require test
 
         ## Questions
-            * For additional help or questions about collaboration, please reach out to ;
-            * Follow me on Github at [](http://github.com/)
+            * For additional help or questions about collaboration, please reach out to bokigolic32@gmail.com;
+            * Follow me on Github at [https://github.com/bokigolic/ProfessionalReadme-Generator](http://github.com/https://github.com/bokigolic/ProfessionalReadme-Generator)
