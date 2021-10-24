@@ -37,6 +37,8 @@ function promptUser(){
             message: "License?",
             name: "license",
             choices:[
+                "[MIT License](LICENSE.txt)", 
+                "[BSD 2-Clause License] (COPYING.txt)",
                 
             ]
         },
@@ -82,23 +84,38 @@ function promptUser(){
         6. [Test Instructions](#test-instructions)
         7. [License](#license)
         8. [Questions](#questions)
+        ## Project title
+        * ${answers.titleProject}
+
         ## Project Description
         * ${answers.description}
-        ## Installation Instructions
-        * ${answers.install}
+
         ## Usage Information
         * ${answers.use}
-        ## Contributor Guidelines
-        * ${answers.contributions}
-        ## Code of Conduct
-        * [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
-        ## Test Instructions
-        * ${answers.test}
+
+        ## Project Content
+        * ${answers.content}
+
+        ## Project Instalation
+        * ${answers.install}
+
+        ## Usage Informations
+        * ${answers.usage}
+
         ## License
         * licensed under the ${answers.license}
+
+        ## Project Contributions
+        * ${answers.contributions}
+
+        ## Testing Project
+        * ${answers.test}
+
         ## Questions
         * For additional help or questions about collaboration, please reach out to ${answers.email}
-        * Follow me on Github at [${answers.github}](http://github.com/${answers.github})`;
+        * Follow me on Github at [${answers.github}](http://github.com/${answers.github})`
+        
+        
           
         }
         
