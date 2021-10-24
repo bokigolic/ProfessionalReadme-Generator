@@ -73,7 +73,7 @@ function promptUser(){
     ])
 }
     function generateREADME(answers) {
-        return `# ${answers.project_title}
+        return `# ${answers.titleProject}
 
 
         #### Table of Contents

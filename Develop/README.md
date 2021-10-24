@@ -1,4 +1,4 @@
-# undefined
+# Professional README Generator
 
 
         #### Table of Contents
@@ -35,7 +35,7 @@
         * licensed under the 
 
         ## Project Contributions
-        * Help for future projects
+        *  Help for future projects
 
         ## Testing Project
         * testing are not required
