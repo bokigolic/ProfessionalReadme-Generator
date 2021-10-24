@@ -78,46 +78,47 @@ function promptUser(){
 
         #### Table of Contents
 
-        1. [Project title](#project-title)
-        2. [Project Description](#project-description)
-        3. [Usage Information](#project-use)
-        4. [Project Content](#project-content)
-        5. [Project Instalation](#project-install)
-        6. [Usage Informations](#project-usage)
-        7. [Project License](#project-answers.license)
-        8. [Project Contributions](#project-contributions)
-        9. [Project Testing Project](#project-test)
+            * [Project title](#project-title)
+            * [Project Description](#project-description)
+            * [Usage Information](#project-use)
+            * [Project Content](#project-content)
+            * [Project Instalation](#project-install)
+            * [Usage Informations](#project-usage)
+            * [Project License](#project-answers.license)
+            * [Project Contributions](#project-contributions)
+            * [Project Testing Project](#project-test)
+        
         
         ## Project title
-        * ${answers.titleProject};
+            * ${answers.titleProject}
 
         ## Project Description
-        * ${answers.description};
+            * ${answers.description}
 
         ## Usage Information
-        * ${answers.usage};
+            * ${answers.usage}
 
         ## Project Content
-        * ${answers.content};
+            * ${answers.content}
 
         ## Project Instalation
-        * ${answers.install};
+            * ${answers.install}
 
         ## Usage Informations
-        * ${answers.usage}
+            * ${answers.usage}
 
         ## License
-        * licensed under the ${answers.license};
+            * licensed under the ${answers.license}
 
         ## Project Contributions
-        * ${answers.contributions}
+            * ${answers.contributions}
 
         ## Testing Project
-        * ${answers.test};
+            * ${answers.test}
 
         ## Questions
-        * For additional help or questions about collaboration, please reach out to ${answers.email};
-        * Follow me on Github at [${answers.github}](http://github.com/${answers.github})`;
+            * For additional help or questions about collaboration, please reach out to ${answers.email};
+            * Follow me on Github at [${answers.github}](http://github.com/${answers.github})`;
         
         
           
