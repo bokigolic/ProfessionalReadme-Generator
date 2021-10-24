@@ -11,19 +11,19 @@
         7. [License](#license)
         8. [Questions](#questions)
         ## Project Description
-        * This app generate a professional readme.md file from user's input using "Inquirer package"
+        * This generator automaticly generate readme file
         ## Installation Instructions
-        * npn inquirer
+        * I install npm inqurier
         ## Usage Information
         * undefined
         ## Contributor Guidelines
-        * to help with md file
+        * 
         ## Code of Conduct
         * [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
         ## Test Instructions
-        * No test
+        * no test requred
         ## License
         * licensed under the 
         ## Questions
         * For additional help or questions about collaboration, please reach out to bokigolic32@gmail.com
-        * Follow me on Github at [https://github.com/bokigolic/portfolio-generator](http://github.com/https://github.com/bokigolic/portfolio-generator)
+        * Follow me on Github at [bokigolic.github](http://github.com/bokigolic.github)
