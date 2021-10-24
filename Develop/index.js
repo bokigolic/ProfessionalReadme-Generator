@@ -76,14 +76,16 @@ function promptUser(){
 
 
         #### Table of Contents
-        1. [Project Description](#project-description)
-        2. [Installation Instructions](#installation-instructions)
-        3. [Usage Information](#usage-information)
-        4. [Contributor Guidelines](#contributor-guidelines)
-        5. [Code of Conduct](#code-of-conduct)
-        6. [Test Instructions](#test-instructions)
-        7. [License](#license)
-        8. [Questions](#questions)
+        1. [Project title](#project-title)
+        2. [Project Description](#project-description)
+        3. [Usage Information](#project-use)
+        4. [Project Content](#project-content)
+        5. [Project Instalation](#project-install)
+        6. [Usage Informations](#project-usage)
+        7. [Project License](#project-answers.license)
+        8. [Project Contributions](#project-contributions)
+        9. [Project Testing Project](#project-test)
+        
         ## Project title
         * ${answers.titleProject}
 
