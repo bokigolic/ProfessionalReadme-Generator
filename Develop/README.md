@@ -14,32 +14,32 @@
         9. [Project Testing Project](#project-test)
         
         ## Project title
-        * Professional README Generator
+        * Professional README Generator;
 
         ## Project Description
-        * This application generates a professional README.md file from user's input using INQUIRER PACKAGE
+        * This application generates a professional README.md file from user's input using INQUIRER PACKAG;
 
         ## Usage Information
-        * Generate a professional README.md file
+        *  Generate a professional README.md file;
 
         ## Project Content
-        * App contain professional README.md file
+        *  App contain professional README.md file;
 
         ## Project Instalation
-        * I instal npm inquirer and npm util
+        * I instal npm inquirer and npm util;
 
         ## Usage Informations
-        * Generate a professional README.md file
+        *  Generate a professional README.md file
 
         ## License
-        * licensed under the 
+        * licensed under the ;
 
         ## Project Contributions
-        *  Help for future projects
+        * Help for future projects
 
         ## Testing Project
-        * testing are not required
+        * testing are not required;
 
         ## Questions
-        * For additional help or questions about collaboration, please reach out to bokigolic32@gmail.com
+        * For additional help or questions about collaboration, please reach out to bokigolic32@gmail.com;
         * Follow me on Github at [https://github.com/bokigolic/ProfessionalReadme-Generator/blob/main/Develop/index.js](http://github.com/https://github.com/bokigolic/ProfessionalReadme-Generator/blob/main/Develop/index.js)
