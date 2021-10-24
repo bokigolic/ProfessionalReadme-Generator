@@ -1,45 +1,42 @@
 # Professional README Generator
 
+#### Table of Contents
+*  [Project title](#project-title)
+*  [Project Description](#project-description)
+*  [Usage Information](#project-use)
+*  [Project Content](#project-content)
+*  [Project Instalation](#project-install)
+*  [Usage Informations](#project-usage)
+*  [Project License](#project-answers.license)
+*  [Project Contributions](#project-contributions)
+*  [Project Testing Project](#project-test)
 
-        #### Table of Contents
 
-        1. [Project title](#project-title)
-        2. [Project Description](#project-description)
-        3. [Usage Information](#project-use)
-        4. [Project Content](#project-content)
-        5. [Project Instalation](#project-install)
-        6. [Usage Informations](#project-usage)
-        7. [Project License](#project-answers.license)
-        8. [Project Contributions](#project-contributions)
-        9. [Project Testing Project](#project-test)
-        
-        ## Project title
+## Project title
         * Professional README Generator;
-
-        ## Project Description
+## Project Description
         * This application generates a professional README.md file from user's input using INQUIRER PACKAG;
 
-        ## Usage Information
+## Usage Information
         *  Generate a professional README.md file;
 
-        ## Project Content
+## Project Content
         *  App contain professional README.md file;
 
-        ## Project Instalation
+## Project Instalation
         * I instal npm inquirer and npm util;
 
-        ## Usage Informations
-        *  Generate a professional README.md file
+## Usage Informations
+        *  Generate a professional README.md file;
 
-        ## License
+## License
         * licensed under the ;
 
-        ## Project Contributions
+## Project Contributions
         * Help for future projects
 
-        ## Testing Project
+## Testing Project
         * testing are not required;
-
-        ## Questions
+## Questions
         * For additional help or questions about collaboration, please reach out to bokigolic32@gmail.com;
-        * Follow me on Github at [https://github.com/bokigolic/ProfessionalReadme-Generator/blob/main/Develop/index.js](http://github.com/https://github.com/bokigolic/ProfessionalReadme-Generator/blob/main/Develop/index.js)
+        * Follow me on Github at [https://github.com/bokigolic/ProfessionalReadme-Generator/blob/main/Develop/index.js]
